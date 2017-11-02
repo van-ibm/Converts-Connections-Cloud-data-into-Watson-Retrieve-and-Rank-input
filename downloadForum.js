@@ -1,4 +1,4 @@
-var connections = require('@ics-demo/connections-cloud');
+var connections = require('connections-cloud');
 var async = require('async');
 var fs = require('fs');
 
