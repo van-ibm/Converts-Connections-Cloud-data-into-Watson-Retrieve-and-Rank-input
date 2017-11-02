@@ -1,0 +1,8 @@
+node_modules/
+.settings
+.project
+.env
+*.log
+data/
+cnx2js-config
+trainingdata.txt

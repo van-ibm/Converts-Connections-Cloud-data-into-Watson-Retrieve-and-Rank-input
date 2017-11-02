@@ -1,0 +1,15 @@
+{
+  "name": "connections-rr",
+  "version": "1.0.0",
+  "description": "Utility to create Watson Retrieve and Rank from IBM Connections data",
+  "author": "van_staub@us.ibm.com",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "connections-cloud": "^1.0.6",
+    "async": "^2.1.4",
+    "dotenv": "^2.0.0",
+    "request": "^2.79.0",
+    "string": "^3.3.3",
+    "striptags": "^2.1.1"
+  }
+}
